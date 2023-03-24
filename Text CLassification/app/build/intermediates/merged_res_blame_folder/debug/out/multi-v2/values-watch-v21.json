@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-3\\2a8c51d40a8612ccd2b81918eb915539\\transformed\\appcompat-1.4.2\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+This video demonstrates a text classification project. Run the application on CM2290, enter a movie evaluation, click Run, and invoke the model operation. After that, the model will analyze the content, analyze the emotions expressed by the content, and provide a reference result of whether it is a positive or negative evaluation.

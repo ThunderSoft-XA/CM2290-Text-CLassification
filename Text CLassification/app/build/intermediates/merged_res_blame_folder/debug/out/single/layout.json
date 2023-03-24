@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_classification.xml",
+        "source": "D:\\Flamingo\\Text CLassification\\github\\Text CLassification\\app\\src\\main\\res\\layout\\item_classification.xml"
+    }
+]
